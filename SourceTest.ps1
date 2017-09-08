@@ -1,0 +1,1 @@
+Write-Output "Automation is awesome!"
