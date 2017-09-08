@@ -1,1 +1,1 @@
-Write-Output "Automation is awesome!"
+Write-Output "Automation is awesome! Awesomer with GitHub!"
